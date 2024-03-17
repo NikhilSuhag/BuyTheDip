@@ -4,11 +4,11 @@
 ## Installation Guide
 ### clone the project
 ```
-  git clone git@github.com:Ankur-Ydv/Buy-The-Dip.git
+  git clone git@github.com:NikhilSuhag/BuyTheDip.git
 ```
 ### go to the project directory
 ```
-  cd Buy-The-Dip
+  cd BuyTheDip
 ```
 ### Install dependencies
 ```
@@ -19,7 +19,7 @@
   npm start
 ```
 ## Made By
-[Ankur Yadav](https://github.com/Ankur-Ydv)
+[Nikhil Suhag](https://github.com/NikhilSuhag)
 
 
 
