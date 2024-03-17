@@ -19,7 +19,7 @@
   npm start
 ```
 ## Made By
-[Ankur Yadav](https://github.com/Ankur-Ydv)
+[Nikhil Suhag](https://github.com/NikhilSuhag)
 
 
 
